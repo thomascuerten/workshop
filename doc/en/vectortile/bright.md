@@ -8,7 +8,7 @@ Mapbox finally came up with Mapbox Studio, a very user friendly style editor, an
 
 The Mapbox Style format was not just made for styling vector data. It was made to describe an entire map, with all its sources and layers, and its initial view configuration (e.g. center and zoom level).
 
-The [ol-mapbox-style](https://npmjs.com/package/ol-mapbox-style/) package adds support for the Mapbox Style format to OpenLayers. Once we have taken a look at how that format works, let's see how we can use ol-mapbox-style to give the vector tile data a professionallz authored street map style
+The [ol-mapbox-style](https://npmjs.com/package/ol-mapbox-style/) package adds support for the Mapbox Style format to OpenLayers. Once we have taken a look at how that format works, let's see how we can use ol-mapbox-style to give the vector tile data a professionally authored street map style
 
 ## Using a Mapbox Style definition
 
